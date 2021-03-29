@@ -34,6 +34,24 @@ header {
     background-color: #ffd803;
 }
 
+
+nav {
+    grid-column: 1/1;
+    background-color: var(--secondary-color);
+    padding: var(--layout-spacing);
+    border-right: 2px solid #272343;
+    
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0;
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
 main {
     grid-column: 2/3;
     padding-left: .5rem;

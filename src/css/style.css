@@ -43,15 +43,24 @@ nav {
     
   }
   
-  nav ul {
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+nav ul {
     padding: 0;
-    margin-left: -1rem;
-    margin-right: -1rem;
-  }
+    list-style: none;
+}
+
+nav li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+nav a {
+    color: var(--font-color);
+    text-decoration: none;
+}
+
+nav a:hover {
+    font-weight: bolder;
+}
+
 main {
     grid-column: 2/3;
     padding-left: .5rem;

@@ -57,10 +57,12 @@ nav li:not(:last-child) {
     margin-bottom: 10px;
 }
 
+nav a {
+    text-decoration: none;
+}
 
 nav a:hover {
     font-weight: bolder;
-    text-decoration: none;
 }
 
 main {

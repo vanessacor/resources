@@ -17,14 +17,10 @@ layout: page.njk
 
 ### Guides
 
-  - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
-  
-        a simple guide to CSS.
+  - [Magic of CSS](https://adamschwartz.co/magic-of-css/) - a simple guide to CSS.
   - [CSS Flex-Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
  ### Libraries
 
-  - [bansal](https://bansal.io/pattern-css#introduction)
-  
-        CSS only library to fill your empty background with beautiful patterns.
+  - [bansal](https://bansal.io/pattern-css#introduction) - CSS only library to fill your empty background with beautiful patterns.

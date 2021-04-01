@@ -18,7 +18,6 @@ html {
 
 a {
     color: var(--font-color);
-    text-decoration: none;
 }
   
 body {
@@ -61,6 +60,7 @@ nav li:not(:last-child) {
 
 nav a:hover {
     font-weight: bolder;
+    text-decoration: none;
 }
 
 main {

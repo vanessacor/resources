@@ -13,6 +13,8 @@ layout: page.njk
 - [UI Gradient](https://uigradients.com) - another free tools to create gradient background
 - [0to255](https://www.0to255.com/16cf75) - a color tool that makes it easy to lighten and darken colors. I
 - [Color Schemes Inspiration](https://visme.co/blog/website-color-schemes/) - gorgeous palettes to choose from and to inspire the next project.
+- [Grabient](https://www.grabient.com/) - UI to generate linear web gradient
+- [ShadeSwash](https://shadeswash.netlify.app/) - Color shade generator
 
 ### Images
 
@@ -22,6 +24,7 @@ layout: page.njk
 - [Lorem Flikr](https://loremflickr.com/) - lorem photos
 - [Pravatar](https://pravatar.cc/) - avatar placeholders
 - [PlaceImg](https://placeimg.com/)
+- [Magdeleine](https://magdeleine.co/browse/) - free high quality photos
 
 ### Icons
 
@@ -51,3 +54,5 @@ layout: page.njk
 - [humaaans](https://www.humaaans.com/) - free cute illustrations
 - [MixKit](https://mixkit.co/free-stock-art/) - free art illustrations
 - [Smoke backgrounds](https://dragdropsite.github.io/waterpipe.js/) - smoke background generator
+- [Absurd](https://absurd.design/) - Absurd yet very cool illustrations.
+- [Paaaterns](https://products.ls.graphics/paaatterns/index.html) - Free collection of beautiful patterns for all vector formats

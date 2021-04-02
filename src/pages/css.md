@@ -12,7 +12,6 @@ layout: page.njk
   - [Bootstrap](https://getbootstrap.com/)
   - [Tailwind](https://tailwindcss.com/docs/installation)
   - [Tailwind Cheatsheet](https://nerdcave.com/tailwind-cheat-sheet)
-  - [Tailwind Cheatsheet](https://nerdcave.com/tailwind-cheat-sheet)
   - [SASS](https://sass-lang.com/documentation)
 
 ### Guides

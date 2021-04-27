@@ -13,9 +13,6 @@ First I tried with [Gatsby](), following [this tutorial](https://www.gatsbyjs.co
 
 When I finished I realized that it was too much for what I wanted so decided to try [Eleventy](https://www.11ty.dev/).
 
-## Next Steps
-
-- Deploy with [Netfly](https://www.netlify.com/)
 
 ## Getting Started
 

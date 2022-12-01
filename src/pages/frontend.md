@@ -15,6 +15,7 @@ layout: page.njk
 - [Color Schemes Inspiration](https://visme.co/blog/website-color-schemes/) - gorgeous palettes to choose from and to inspire the next project.
 - [Grabient](https://www.grabient.com/) - UI to generate linear web gradient
 - [ShadeSwash](https://shadeswash.netlify.app/) - Color shade generator
+- [Branition Colors](https://branition.com/colors) - Collection of color palettes for branding.
 
 ### Images
 
